@@ -70,7 +70,7 @@ I'm a developer focused on **data, automation & AI applied to business**, with e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anaissiabraao&show_icons=true&theme=default"/>
 </p>
 
 ---
