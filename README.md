@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer focused on **data, automation & AI applied to business**, with experience in:
 
@@ -29,7 +29,7 @@ I'm a developer focused on **data, automation & AI applied to business**, with e
 
 ---
 
-## 🧩 Technical Skills
+## Technical Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,ts,html,css,mysql,sqlite,git,github,linux" />
@@ -37,7 +37,7 @@ I'm a developer focused on **data, automation & AI applied to business**, with e
 
 ---
 
-## 🎓 Education & Background
+## Education & Background
 
 - Bachelor in Law  
 - Corporate experience (Maersk)  
@@ -46,28 +46,28 @@ I'm a developer focused on **data, automation & AI applied to business**, with e
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 Freight Calculation System
+### Freight Calculation System
 > Backend in Flask + JS Frontend + Leaflet  
-✔️ Route planning  
-✔️ Fractional freight calculation  
-✔️ Agent ranking  
+- Route planning  
+- Fractional freight calculation  
+- Agent ranking  
 
-### 🔹 Product Rental Platform (MVP)
+### Product Rental Platform (MVP)
 > App for renting physical goods  
-✔️ Delivery fees  
-✔️ Automatic insurance  
-✔️ Dynamic categories  
+- Delivery fees  
+- Automatic insurance  
+- Dynamic categories  
 
-### 🔹 AI Automation
+### AI Automation
 > Reads multiple PDFs and extracts data intelligently  
 
-➡️ *More projects in my repositories ⬇️*
+ *More projects in my repositories ⬇️*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaissiabraao&show_icons=true&theme=default"/>
@@ -75,7 +75,7 @@ I'm a developer focused on **data, automation & AI applied to business**, with e
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 **Email:** anaissiabraao@gmail.com  
 🌐 **Website:** (https://www.anaissids.com.br/#home)
